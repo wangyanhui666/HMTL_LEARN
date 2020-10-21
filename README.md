@@ -29,9 +29,8 @@ reference 所有的tag https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 在页面一块的形式展现
 出现在新的一行
 占全部宽度
-<div> <h1>-<h6> <p>
+
   
 ### 内联元素
-<a> <img> <em> <strong>
-  
+
 https://developer.mozilla.org/en-US/docs/Web/HTML
